@@ -1,1 +1,1 @@
-# Belize3
+CSS is included in th html file itself.
